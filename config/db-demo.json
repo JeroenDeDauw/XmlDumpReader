@@ -1,0 +1,8 @@
+{
+	"driver": "pdo_mysql",
+    "user": "queryruser",
+    "password": "kittens!",
+    "dbname": "queryrdb01",
+	"host": "localhost",
+	"port": "3306"
+}
