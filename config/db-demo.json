@@ -3,6 +3,6 @@
     "user": "queryruser",
     "password": "kittens!",
     "dbname": "queryrdb01",
-	"host": "localhost",
+	"host": "queryrdbdemo01.ctu2pdsymucw.us-west-2.rds.amazonaws.com",
 	"port": "3306"
 }
