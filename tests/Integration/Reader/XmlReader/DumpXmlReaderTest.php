@@ -27,7 +27,7 @@ class DumpXmlReaderTest extends \PHPUnit_Framework_TestCase {
 	}
 
 	private function getFilePath( $fileName ) {
-		return __DIR__ . '/../../../../data/' . $fileName;
+		return __DIR__ . '/../../../data/' . $fileName;
 	}
 
 	private function assertFindsAnotherEntity( DumpReader $reader ) {

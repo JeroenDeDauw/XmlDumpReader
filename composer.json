@@ -1,47 +1,20 @@
 {
-	"name": "queryr/replicator",
+	"name": "queryr/dump-reader",
 	"require": {
 		"php": ">=5.5.0",
-		"lib-libxml": "*",
-		"ext-mysql": "*",
-		"ext-PDO": "*",
-		"ext-pcntl": "*",
-
-		"queryr/entity-store": "~0.2.0",
-		"queryr/term-store": "~0.1.0",
-
-		"wikibase/data-model": "~1.0@dev",
-		"wikibase/query-engine": "~0.3.0@dev",
-		"wikibase/internal-serialization": "~1.0@dev",
-
-		"symfony/console": "~2.4"
+		"lib-libxml": "*"
 	},
 	"require-dev": {
-		"ext-sqlite3": "*",
 		"whatthejeff/nyancat-phpunit-resultprinter": "~1.2"
 	},
-	"minimum-stability": "dev",
 	"autoload": {
 		"psr-4": {
-			"Queryr\\": "src/"
+			"Queryr\\DumpReader\\": "src/"
 		}
 	},
 	"extra": {
 		"branch-alias": {
 			"dev-master": "0.1.x-dev"
 		}
-	},
-	"bin": [
-		"replicator"
-	],
-	"repositories": [
-		{
-			"type": "vcs",
-			"url": "git@github.com:Queryr/EntityStore.git"
-		},
-		{
-			"type": "vcs",
-			"url": "git@github.com:Queryr/TermStore.git"
-		}
-	]
+	}
 }
