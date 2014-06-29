@@ -1,6 +1,6 @@
 # QueryR DumpReader
 
-QueryR DumpReader provides access to the data in [Wikibase](http://wikiba.se/) dumps.
+**QueryR DumpReader** provides access to the data in [Wikibase](http://wikiba.se/) dumps.
 
 ## System dependencies
 
