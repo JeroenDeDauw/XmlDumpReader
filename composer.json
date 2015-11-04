@@ -1,5 +1,5 @@
 {
-	"name": "queryr/dump-reader",
+	"name": "queryr/xml-dump-reader",
 	"type": "library",
 	"description": "Reader for Wikidata/Wikibase XML dumps",
 	"keywords": [

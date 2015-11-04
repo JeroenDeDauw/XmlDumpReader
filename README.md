@@ -1,10 +1,10 @@
-# QueryR DumpReader
+# QueryR XmlDumpReader
 
 [![Build Status](https://secure.travis-ci.org/JeroenDeDauw/XmlDumpReader.png?branch=master)](http://travis-ci.org/JeroenDeDauw/XmlDumpReader)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/JeroenDeDauw/XmlDumpReader/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/JeroenDeDauw/XmlDumpReader/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/JeroenDeDauw/XmlDumpReader/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/JeroenDeDauw/XmlDumpReader/?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/queryr/dump-reader/version.png)](https://packagist.org/packages/queryr/dump-reader)
-[![Download count](https://poser.pugx.org/queryr/dump-reader/d/total.png)](https://packagist.org/packages/queryr/dump-reader)
+[![Latest Stable Version](https://poser.pugx.org/queryr/xml-dump-reader/version.png)](https://packagist.org/packages/queryr/xml-dump-reader)
+[![Download count](https://poser.pugx.org/queryr/xml-dump-reader/d/total.png)](https://packagist.org/packages/queryr/xml-dump-reader)
 
 **QueryR DumpReader** provides access to the data in [Wikibase](http://wikiba.se/) XML dumps.
 
