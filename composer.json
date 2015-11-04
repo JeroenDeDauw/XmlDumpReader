@@ -1,5 +1,22 @@
 {
 	"name": "queryr/dump-reader",
+	"type": "library",
+	"description": "Reader for Wikidata/Wikibase XML dumps",
+	"keywords": [
+		"Wikibase",
+		"QueryR",
+		"Serializers",
+		"Resources"
+	],
+	"homepage": "https://github.com/JeroenDeDauw/XmlDumpReader",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Jeroen De Dauw",
+			"email": "jeroendedauw@gmail.com",
+			"homepage": "http://jeroendedauw.com"
+		}
+	],
 	"require": {
 		"php": ">=5.5.0",
 		"lib-libxml": "*"
