@@ -1,0 +1,20 @@
+{
+	"name": "queryr/dump-reader",
+	"require": {
+		"php": ">=5.5.0",
+		"lib-libxml": "*"
+	},
+	"require-dev": {
+		"whatthejeff/nyancat-phpunit-resultprinter": "~1.2"
+	},
+	"autoload": {
+		"psr-4": {
+			"Queryr\\DumpReader\\": "src/"
+		}
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "0.1.x-dev"
+		}
+	}
+}
